@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="800" viewBox="0 0 1600 800">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#120f1c"/><stop offset="1" stop-color="#7c3aed"/></linearGradient></defs>
+<rect width="1600" height="800" fill="url(#g)"/><rect x="100" y="110" width="1400" height="580" rx="34" fill="#160f25" stroke="#ffffff" stroke-opacity=".12"/>
+<text x="180" y="320" fill="#d8b4fe" font-family="Arial" font-size="30" letter-spacing="4">FASHION &amp; LIFESTYLE</text>
+<text x="180" y="420" fill="#ffffff" font-family="Arial" font-weight="700" font-size="88">NokshiLane</text>
+<text x="180" y="490" fill="#ddd6fe" font-family="Arial" font-size="28">Commerce · Wishlist · Admin · Payments</text>
+<g transform="translate(1120,285)" fill="none" stroke="#e9d5ff" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"><path d="M115 45c0 28-23 50-50 50-28 0-50-22-50-50"/><path d="M65 95v145"/><path d="M-5 140h140"/><path d="M30 240l35-145 35 145"/></g>
+</svg>

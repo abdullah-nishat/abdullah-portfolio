@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="800" viewBox="0 0 1600 800">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#334155"/></linearGradient></defs>
+<rect width="1600" height="800" fill="url(#g)"/><rect x="100" y="110" width="1400" height="580" rx="34" fill="#0f172a" stroke="#ffffff" stroke-opacity=".12"/>
+<text x="180" y="320" fill="#93c5fd" font-family="Arial" font-size="30" letter-spacing="4">ASP.NET CORE WEB API</text>
+<text x="180" y="420" fill="#ffffff" font-family="Arial" font-weight="700" font-size="74">Product Management System</text>
+<text x="180" y="490" fill="#cbd5e1" font-family="Arial" font-size="28">3-Tier Architecture · EF Core · SQL Server · AutoMapper</text>
+<g transform="translate(1150,270)" fill="none" stroke="#bfdbfe" stroke-width="10"><rect x="0" y="0" width="220" height="220" rx="30"/><path d="M45 72h130M45 112h130M45 152h85"/></g>
+</svg>
