@@ -125,7 +125,7 @@ export const portfolio = {
       degree: "B.Sc. in Computer Science and Engineering",
       institution: "American International University-Bangladesh (AIUB)",
       year: "2026",
-      result: "CGPA 3.76",
+      result: "CGPA 3.77",
     },
     {
       degree: "Higher Secondary Certificate (HSC)",
